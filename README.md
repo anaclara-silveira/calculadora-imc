@@ -21,7 +21,6 @@ O objetivo deste projeto é:
 |----------------|-------------------------------------------|
 | C              | Linguagem principal utilizada             |
 | GCC            | Compilador C (GNU Compiler Collection)    |
-| VS Code / Vim / etc | Editor de código (à sua escolha)     |
 | Terminal       | Execução de comandos e compilação         |
 | Git & GitHub   | Controle de versão e hospedagem do código |
 
@@ -30,6 +29,3 @@ O objetivo deste projeto é:
 ## 📌 Sobre o IMC
 
 O **IMC** é um índice utilizado para medir a relação entre o peso e a altura de uma pessoa, permitindo classificar seu estado nutricional.
-
-### 📐 Fórmula do IMC:
-
